@@ -7,9 +7,10 @@ max=t[i];
 return max;
 }
 int findmin(int t[] , int n){
-int i;
+int i ,m;in=t[0]
 for(i=1;i<n;i++){
 if(t[i]<min)
 min=t[i];
-}7return min;
+}
+return min;
 }
