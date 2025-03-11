@@ -1,0 +1,5 @@
+void main(){
+int t[10];
+int n;
+compare(t,n)
+}
